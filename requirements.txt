@@ -1,0 +1,3 @@
+geopandas
+voronoi-diagram-for-polygons
+pedpy
