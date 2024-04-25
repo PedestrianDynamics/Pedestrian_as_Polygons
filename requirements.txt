@@ -1,3 +1,6 @@
 geopandas
+shapely
 voronoi-diagram-for-polygons
 pedpy
+streamlit
+jupedsim
